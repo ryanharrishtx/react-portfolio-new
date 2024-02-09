@@ -8,10 +8,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.2",
-    "react-scripts": "5.0.1",
-    "react-scroll": "^1.8.9",
-    "web-vitals": "^2.1.4"
+    "react-router-dom": "^6.22.0",
+    "react-scripts": "^5.0.1",
+    "react-scroll": "^1.9.0",
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,9 +28,8 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "Ryan Chrisenberry's Portfolio",
   "main": "index.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }

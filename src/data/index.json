@@ -1,0 +1,25 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/1.jpg",
+      "title": "Grapevine Chat App",
+      "description": "A MERN stack application that allows users to chat with other users of the app, create group chats, declare themselves as an admin, run through CRUD operations, and more!",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/2.jpg",
+      "title": "Express Note App",
+      "description": "This is a Note App using Express to build a server. When you enter a Title and Text for a note and click Save Note at the top of the window, the note will save to the left of the screen (this may take a moment). When you click on the note that is saved to the left, it will appear in the main note window for editing and present you with an option to create a New Note at the top right of the window.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/3.jpg",
+      "title": "Mixology Matchmaker",
+      "description": "Broaden your cocktail horizons with Mixology Matchmaker! On load, the User is presented with a list of different liquor types to select from. When a selection is made, the app will present the User with a list of results for drink recipes that contain that liquor type. When the User finds a recipe that they want to know how to make, they click the recipe button which, when clicked, will load the recipe page that contains the drink name, an image of the drink, with a list of ingredients and their measurements followed by the instructions on how to prepare the drink. This app fetches from the free CocktailDB API to provide it with the information it displays.",
+      "link": "View In Github"
+    }
+  ]
+}
