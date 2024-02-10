@@ -476,6 +476,7 @@ input[type="checkbox"] {
   .skills--section--heading {
     font-size: 54px;
     line-height: 70px;
+    text-align: center;
   }
   .skills--section--container {
     gap: 16px;
@@ -502,7 +503,7 @@ input[type="checkbox"] {
     padding: 30px;
   }
   .portfolio--section {
-    padding: 112px 50px
+    padding: 112px 50px;
   }
   .navbar--logo {
     position: absolute;
