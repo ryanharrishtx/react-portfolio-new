@@ -5,9 +5,10 @@ export default function MyPortfolio() {
     <section className="portfolio--section" id="MyPortfolio">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <h1 className="skills-section--heading">My Portfolio</h1>
+          <h1 className="skills-section--heading">Portfolio</h1>
         </div>
         <div>
+         <a href="https://github.com/ryanharrishtx" target="_blank">
           <button className="btn btn-github">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -25,6 +26,7 @@ export default function MyPortfolio() {
             </svg>
             Visit My GitHub
           </button>
+          </a>
         </div>
       </div>
       <div className="portfolio--section--container">
