@@ -4,8 +4,8 @@
       "id": "1",
       "src": "./img/1.jpg",
       "title": "Grapevine Chat App",
-      "description": "A MERN stack application that allows users to chat with other users of the app, create group chats, declare themselves as an admin, run through CRUD operations, and more!",
-      "link": "https://github.com/ryanharrishtx/grapevine-chat-app"
+      "description": "With Grapevine, you can effortlessly create new chats or group chats, connect with friends, family, or colleagues, and conduct CRUD operations with ease. Share media, exchange ideas, and stay connected like never before. Plus, with Grapevine, your conversations persist even when you log out, ensuring you never miss a beat. Say goodbye to scattered conversations and hello to a unified, persistent chat experience with Grapevine.",
+      "link": "https://github.com/ryanharrishtx/react-chat-app"
     },
     {
       "id": "2",
